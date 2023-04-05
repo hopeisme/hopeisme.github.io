@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hopeisme.github.io/al-folio/sitemap.xml
+Sitemap: https://hopeisme.github.io/sitemap.xml
