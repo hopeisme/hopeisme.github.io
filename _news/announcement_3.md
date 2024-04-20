@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2024-01-11 16:11:00-0400
+date: 2023-07-14 16:11:00-0400
 inline: true
 related_posts: false
 ---
-I have defended my PhD viva successfully.
+
+One paper was accepted at the 2023 IEEE International Conference on Computer Vision (ICCV).

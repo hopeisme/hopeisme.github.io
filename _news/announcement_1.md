@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-10-01 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+One paper on layout to image generation was accepted at the 2022 British Machine Vision Conference (BMVC).
