@@ -17,4 +17,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Xi received his PhD from the University of Bath, UK, focusing on multimodal deep learning for computer vision, specializing in text-guided image and 3D shape generation. His previous employment has involved working with large language models and deep learning-based medical image processing.
+
+Here's a polished version of your introduction for your personal page:
+
+Dr. Xi received his PhD in 2024 from the University of Bath, UK, specializing in multimodal deep learning applications within computer vision. His research primarily focuses on text-guided image and 3D shape generation. He earned his MSc in Machine Learning from the University of Bristol in 2016 and his BSc in Computer Science from Beijing University of Posts and Telecommunications in 2014. His professional experience includes work on large language models and the application of deep learning techniques in medical image processing.
