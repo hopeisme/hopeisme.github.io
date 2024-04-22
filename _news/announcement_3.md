@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted at the 2023 IEEE International Conference on Computer Vision (ICCV).
+One paper on the text-to-shape task was accepted at the 2023 IEEE International Conference on Computer Vision (ICCV).
