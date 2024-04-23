@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper on layout-to-image generation was presented at the 2022 British Machine Vision Conference (BMVC).
+One paper on layout-to-image generation was presented at the 2022 British Machine Vision Conference (**BMVC**).

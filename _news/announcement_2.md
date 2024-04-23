@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper on text-to-storyboard retrieval accepted by the Computer Vision and Media Journal (CVMJ).
+One paper on text-to-storyboard retrieval accepted by the Computer Vision and Media Journal (**CVMJ**).
