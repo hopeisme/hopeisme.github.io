@@ -892,5 +892,27 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
     grid-column: none;
   }
 }
+footer.fixed-bottom,
+footer.sticky-bottom {
+  background-color: rgba(250, 250, 250, 0.9) !important;
+  backdrop-filter: blur(10px);
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+footer.fixed-bottom .container,
+footer.sticky-bottom .container {
+  padding: 10px 0;
+  font-size: 0.9rem;
+  color: #666 !important;
+}
+footer.fixed-bottom .container a,
+footer.sticky-bottom .container a {
+  color: #444 !important;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+footer.fixed-bottom .container a:hover,
+footer.sticky-bottom .container a:hover {
+  color: #000 !important;
+}
 
 /*# sourceMappingURL=main.css.map */
