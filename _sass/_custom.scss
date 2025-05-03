@@ -1,0 +1,23 @@
+// Custom footer styles
+footer.fixed-bottom,
+footer.sticky-bottom {
+  background-color: rgba(250, 250, 250, 0.9) !important;  // Very light background with slight transparency
+  backdrop-filter: blur(10px);  // Adds a subtle blur effect
+  border-top: 1px solid rgba(0, 0, 0, 0.1);  // Very subtle border
+  
+  .container {
+    padding: 10px 0;  // Add some padding
+    font-size: 0.9rem;  // Slightly smaller text
+    color: #666 !important;  // Softer text color
+    
+    a {
+      color: #444 !important;  // Darker link color
+      text-decoration: none;
+      transition: color 0.2s ease;
+      
+      &:hover {
+        color: #000 !important;  // Darker color on hover
+      }
+    }
+  }
+} 
